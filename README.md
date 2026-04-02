@@ -11,7 +11,7 @@ The company submits hundreds of bids but struggles with:
 
 The objective of this project is to identify what drives wins vs losses and improve conversion performance.
 
-Business Question
+_Business Question
 
 How can we increase win rate while maintaining healthy margins?
 
@@ -28,7 +28,7 @@ Key variables:
 -Project Value
 -Bid Outcome (Won / Lost)
 
-Approach
+_Approach
 
 -Cleaned and structured the dataset using SQL
 -Built key business metrics:
@@ -40,7 +40,7 @@ industry performance
 salesperson performance
 
 
-Key Insights
+_Key Insights
 
 1. Pricing has a strong negative impact on win rate
 GP 0–9% → 23.7% win rate
