@@ -23,9 +23,13 @@ Dataset
 Key variables:
 
 -Industry
+
 -Salesperson
+
 -Product GP% (pricing)
+
 -Project Value
+
 -Bid Outcome (Won / Lost)
 
 _Approach
