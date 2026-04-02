@@ -11,7 +11,7 @@ The company submits hundreds of bids but struggles with:
 
 The objective of this project is to identify what drives wins vs losses and improve conversion performance.
 
->Business Question<
+Business Question
 
 How can we increase win rate while maintaining healthy margins?
 
@@ -104,9 +104,12 @@ More efficient sales effort
 <img width="1185" height="678" alt="image" src="https://github.com/user-attachments/assets/0a66c4e9-b49f-429e-b4f4-75f5e440c5a0" />
 
 
-Tools Used
+Tools Used:
+
 SQL → data cleaning & transformation
+
 Power BI → data visualization
+
 GitHub → documentation
 
 Final Thought
