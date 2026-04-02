@@ -1,7 +1,7 @@
 SELECT
     CASE
-        WHEN project_total >= 500000 OR revisions >= 3 THEN 'high'
-        WHEN project_total >= 100000 OR revisions BETWEEN 1 AND 2 THEN 'medium'
+        WHEN project_total >= 1000000 OR revisions >= 5 THEN 'high'
+        WHEN project_total >= 500000 OR revisions BETWEEN 1 AND 3 THEN 'medium'
         ELSE 'low'
     END AS bid_complexity,
     COUNT(*) AS bids,
